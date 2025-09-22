@@ -1,0 +1,9 @@
+:root {
+  --main-color: #ff00ff;
+}
+
+.block {
+  width: 350px;
+  height: 70px;
+  background-color: var(--main-color);
+}
