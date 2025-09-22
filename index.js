@@ -1,3 +1,3 @@
-const root = document.querySelector('.block');
-const mainColor = getComputedStyle(root).getPropertyValue('--main-color');
-console.log(mainColor);
+document.documentElement.style.setProperty('--main-color', '#e74c3c');
+
+
